@@ -1,0 +1,5 @@
+{
+  "name": "Build & Publish to Github Packages",
+  "description": "Build a docker image from the 'Dockerfile' with the tag as the branch/ref name.",
+  "iconName": "package-registry"
+}
